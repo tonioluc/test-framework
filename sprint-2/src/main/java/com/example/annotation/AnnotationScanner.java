@@ -1,7 +1,7 @@
 package com.example.annotation;
 
 import com.example.annotation.UrlMethod;
-import com.example.controller.MyController;
+import com.example.annotation.MyController;
 
 import java.lang.reflect.Method;
 
